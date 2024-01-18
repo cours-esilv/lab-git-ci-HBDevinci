@@ -82,3 +82,44 @@ How can I find out what changes were made in the last commit?
 - A. Use `git diff HEAD HEAD~1`.
 - B. Use **gitLens** in VSCode with the history view.
 - C. Use _Thonny_ to debug the code.
+
+### Question 1
+
+A
+
+### Question 2
+
+C
+
+### Question 3
+
+B
+
+### Question 4
+
+B
+
+### Question 5
+
+A
+
+### Question 6
+
+B
+
+### Question 7
+
+B
+
+### Question 8
+
+C
+
+### Question 9
+
+B
+
+### Question 10
+
+A
+
